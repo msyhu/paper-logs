@@ -1,15 +1,15 @@
 # paper-logs
 
-[![opened-issue-badge](https://img.shields.io/github/issues/codertimo/paper-log)](https://github.com/msyhu/paper-logs/issues)
-[![closed-issue-badge](https://img.shields.io/github/issues-closed/codertimo/paper-log)](https://github.com/msyhu/paper-logs/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+)
+[![opened-issue-badge](https://img.shields.io/github/issues/msyhu/paper-logs)](https://github.com/msyhu/paper-logs/issues)
+[![closed-issue-badge](https://img.shields.io/github/issues-closed/msyhu/paper-logs)](https://github.com/msyhu/paper-logs/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+)
 
 ## 소개 👋
 
-> **전체 논문 리스트는 [issue tab](https://github.com/codertimo/paper-log/issues)에서 보실 수 있습니다!**
+> **전체 논문 리스트는 [issue tab](https://github.com/msyhu/paper-logs/issues)에서 보실 수 있습니다!**
 
 ### 어떤 목적으로 만든 레포인가요? 🤔
 
-[paper-log](https://github.com/codertimo/paper-log) 는 읽어야 할 논문들을 리스트업 하고, 각 논문을 읽으면서 배운 점들을 기록하는 데에 목적이 있습니다.
+[paper-log](https://github.com/msyhu/paper-logs) 는 읽어야 할 논문들을 리스트업 하고, 각 논문을 읽으면서 배운 점들을 기록하는 데에 목적이 있습니다.
 
 ### 각 issue 는 어떤 정보를 담고 있나요? ✏️
 
